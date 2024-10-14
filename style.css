@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(121, 121, 121);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+h1:hover{
+    color: rgb(225, 35, 156);
+}
+
+h2{
+    color: cadetblue;
+}
+
+.bring{
+    font-size: xx-large;
+}
+
+.party{
+    background-color: brown;
+}
